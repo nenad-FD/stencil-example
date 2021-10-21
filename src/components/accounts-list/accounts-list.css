@@ -1,0 +1,17 @@
+.accounts-list {
+  background-color: #eea347;
+  width: 100%;
+}
+.accounts-list-container {
+  width: 80%;
+  margin: 2em auto;
+}
+.accounts {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.accounts-list-heading {
+  font-size: 2.8rem;
+  text-align: center;
+  color: #f4f4f4;
+}
